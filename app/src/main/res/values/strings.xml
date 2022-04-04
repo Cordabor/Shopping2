@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Корзина</string>
+    <string name="check_bill">Проверить счёт</string>
+    <string name="continue_shopping">Продолжить</string>
+    <string name="checkout">Контроль</string>
+    <string name="your_bill">Ваш счёт</string>
+
+
+</resources>
