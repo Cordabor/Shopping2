@@ -1,4 +1,4 @@
-package com.example.shopping;
+package com.example.shoppingcart;
 
 import android.content.Context;
 
